@@ -1,6 +1,6 @@
 ## COVIDE19
 ## Author Info
-### Name : @rewidashabaan
+### Name : [rewidashabaan](https://github.com/rewidashabaan)
 ### Source : [COVIDE19(VIZ)](https://www.kaggle.com/code/rewidashabaanmohamed/covide19-viz)
 
 # Mentee assignment from IBM Advance Al @ Infinite Learning Python for Data science project (review code)
