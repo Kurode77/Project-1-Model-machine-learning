@@ -1,5 +1,5 @@
 ## COVIDE19
-# AUTHOR: Rewida Shabaan Mohamed
+# AUTHOR: rewidashabaanmohamed
 
 # Mentee assignment from IBM Advance Al @ Infinite Learning 
 --
