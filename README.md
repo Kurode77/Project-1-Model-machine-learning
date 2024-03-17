@@ -1,7 +1,7 @@
 ## COVIDE19
 # AUTHOR: rewidashabaanmohamed
 
-# Mentee assignment from IBM Advance Al @ Infinite Learning 
+# Mentee assignment from IBM Advance Al @ Infinite Learning Python for Data science project (review code)
 --
 
 # Mentee Info
